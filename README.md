@@ -38,7 +38,7 @@ GIF created with ...
 
 ## Notes
 
-I am getting the hang of Kotlin programming and don't have to use chatGPT that often anymore. It still helps when developing code but I am glad I am able to get way more done solo now.
+I am getting the hang of Kotlin programming and don't have to use chatGPT that often anymore. It still helps when developing code but I am glad I am able to get way more done solo now. Also, i didn't realize that adding a new data type to my model while there were still entries would crash my project and hardlock it pretty much, i had to clear the data on the emulator to continue developing.
 
 ## License
 

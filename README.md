@@ -31,22 +31,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/wuAiCYP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I am getting the hang of Kotlin programming and don't have to use chatGPT that often anymore. It still helps when developing code but I am glad I am able to get way more done solo now.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Ghulam Ahmed
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
